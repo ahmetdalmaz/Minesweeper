@@ -1,0 +1,16 @@
+C:\Users\103S-11\source\repos\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\103S-11\source\repos\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\103S-11\source\repos\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\103S-11\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+C:\Users\103S-11\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.SuggestedBindingRedirects.cache
+C:\Users\103S-11\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.FormLogin.resources
+C:\Users\103S-11\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\103S-11\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Users\103S-11\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\103S-11\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\103S-11\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\103S-11\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.FormGame.resources
+C:\Users\103S-11\source\repos\Minesweeper\Minesweeper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\103S-11\source\repos\Minesweeper\Minesweeper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\103S-11\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CopyComplete
+C:\Users\103S-11\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.FormRecentlyPlayed.resources
